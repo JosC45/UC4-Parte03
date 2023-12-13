@@ -26,6 +26,10 @@ body {
     font-weight: bold; /* Texto en negrita */
 }
 
+.menu a:hover {
+    background-color: #954;  /* Rojo oscuro al pasar el ratón */
+}
+
 /* Estilos para el contenido */
 .content {
     margin: 20px; /* Márgenes alrededor del contenido */
